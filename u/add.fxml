@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: red;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="addtrue">
+   <children>
+      <TextField layoutX="7.0" layoutY="149.0" prefHeight="100.0" prefWidth="585.0" text="Data inserted successfully.">
+         <font>
+            <Font size="46.0" />
+         </font>
+      </TextField>
+   </children>
+</Pane>

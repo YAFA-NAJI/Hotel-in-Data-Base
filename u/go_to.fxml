@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: green;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="going_to">
+   <children>
+      <Button layoutX="279.0" layoutY="110.0" mnemonicParsing="false" onAction="#customer" prefHeight="65.0" prefWidth="286.0" text="customer page" textAlignment="CENTER" underline="true" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="36.0" layoutY="14.0" prefHeight="65.0" prefWidth="529.0" style="-fx-background-color: white;" text="Where do you want to go Pasha?">
+         <font>
+            <Font size="33.0" />
+         </font>
+      </Label>
+      <Button layoutY="175.0" mnemonicParsing="false" onAction="#room" prefHeight="65.0" prefWidth="286.0" text="Rooms page" underline="true">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Button>
+      <Button fx:id="info" layoutX="286.0" layoutY="257.0" mnemonicParsing="false" onAction="#info" prefHeight="65.0" prefWidth="286.0" text="Information about clients and rooms" underline="true" wrapText="true">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="profit" layoutY="331.0" mnemonicParsing="false" onAction="#profit" prefHeight="52.0" prefWidth="286.0" text="Company profits" underline="true" wrapText="true">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="65.0" fitWidth="200.0" layoutX="180.0" layoutY="110.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@create-custom-page-main.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="80.0" fitWidth="89.0" layoutX="285.0" layoutY="341.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download%20(5).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="65.0" fitWidth="91.0" layoutX="195.0" layoutY="260.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download%20(11).jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="105.0" layoutX="285.0" layoutY="178.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download%20(2).jpg" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>

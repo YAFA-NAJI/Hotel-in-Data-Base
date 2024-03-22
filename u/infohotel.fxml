@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="infohotel">
+   <children>
+      <TextField fx:id="idc" layoutX="214.0" layoutY="47.0" onAction="#idc" />
+      <Text fill="WHITE" layoutX="59.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter your number">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <Text fx:id="datein" fill="#c96060" layoutX="256.0" layoutY="181.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Text>
+      <Text fx:id="dateout" fill="#da5757" layoutX="253.0" layoutY="259.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Text>
+      <Text fx:id="time_left" fill="#c96464" layoutX="258.0" layoutY="337.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>

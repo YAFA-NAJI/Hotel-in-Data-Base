@@ -1,0 +1,17 @@
+import java.net.URL;
+import java.util.ResourceBundle;
+import javafx.fxml.FXML;
+
+public class addtrue {
+
+    @FXML
+    private ResourceBundle resources;
+
+    @FXML
+    private URL location;
+
+    @FXML
+    void initialize() {
+
+    }
+}

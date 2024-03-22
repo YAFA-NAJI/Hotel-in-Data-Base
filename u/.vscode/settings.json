@@ -1,0 +1,89 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.base.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.controls.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.fxml.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.graphics.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.media.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.swing.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx.web.jar",
+        "c:\\Java\\javafx-sdk-20\\lib\\javafx-swt.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.base.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.controls.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.media.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.swing.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.web.jar",
+        "c:\\Users\\Doaa\\Desktop\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx-swt.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.base.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.controls.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.media.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.swing.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.web.jar",
+        "c:\\Users\\Doaa\\Downloads\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx-swt.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.base.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.controls.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.fxml.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.graphics.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.media.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.swing.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx.web.jar",
+        "c:\\Java\\openjfx-17.0.6_windows-x64_bin-sdk\\javafx-sdk-17.0.6\\lib\\javafx-swt.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.base.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.controls.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.media.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.swing.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx.web.jar",
+        "c:\\Users\\Doaa\\Desktop\\javafx-sdk-20\\lib\\javafx-swt.jar",
+        "c:\\Users\\Doaa\\Downloads\\sqljdbc_12.2.0.0_enu\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre8.jar",
+        "c:\\Users\\Doaa\\Downloads\\sqljdbc_12.2.0.0_enu\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre11.jar",
+        "c:\\Users\\Doaa\\Downloads\\mysql-connector-java-5.1.47.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql",
+            "database": "mysql",
+            "username": "root",
+            "password": "1200284"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql",
+            "database": "mysql",
+            "username": "root",
+            "password": "1200284"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql",
+            "database": "mysql",
+            "username": "root",
+            "password": "1200284"
+        }
+    ]
+}
